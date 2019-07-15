@@ -296,7 +296,6 @@ i :hover{
   header{
     background-color: #333333;
     position: relative;
-min-width: 100%;
   }
   #header.active {
      box-shadow: 0 0 10px rgba(0,0,0,0.4);
